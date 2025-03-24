@@ -151,6 +151,7 @@ const LiveMarkdownEditor = () => {
           style={{
             textAlign: "left", // Align text to the left
             paddingLeft: "50px", // Add padding for spacing
+            paddingRight: "55px", // Add padding for spacing
             paddingTop: "10px", // Add padding for spacing
             backgroundColor: "#18152e", // Set background color to white
        
