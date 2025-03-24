@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "@shadcn/ui": "^0.0.4"
+    "@shadcn/ui": "^0.0.4",
+    "github-markdown-css": "^5.8.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
   }
 }
