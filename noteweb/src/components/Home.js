@@ -139,6 +139,8 @@ const LiveMarkdownEditor = () => {
               color: "white", // Set text color to white
               borderRadius: "5px", // Add border radius
               marginTop: "10px", // Add padding for spacing
+              //set scroll to none
+              overflow: "hidden",
           
             }}
             autoFocus
